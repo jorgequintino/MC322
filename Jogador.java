@@ -108,7 +108,7 @@ public class Jogador {
     @Override
     public String toString() {
         return "Jogador: {" +
-                "Nome = '" + name + '\'' +
+                "Nome = " + name +
                 ", CPF = '" + cpf + '\'' +
                 ", CPF válido = " + validateCpf(cpf) +
                 ", Foto = '" + foto + '\'' +

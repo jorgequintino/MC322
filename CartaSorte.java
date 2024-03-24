@@ -10,16 +10,17 @@ public class CartaSorte {
         private int tempo;
         private String restricao;
 
-        public CartaSorte(int id, String descricao, int movimento, int efeito, float valor, String acao, int tempo, String restricao){
-            this.id = id;
-            this.descricao = descricao;
-            this.movimento = movimento;
-            this.efeito = efeito;
-            this.valor = valor;
-            this.acao = acao;
-            this.tempo = tempo;
-            this.restricao = restricao;
-        }
+    //         Construtor
+    public CartaSorte(int id, String descricao, int movimento, int efeito, float valor, String acao, int tempo, String restricao){
+        this.id = id;
+        this.descricao = descricao;
+        this.movimento = movimento;
+        this.efeito = efeito;
+        this.valor = valor;
+        this.acao = acao;
+        this.tempo = tempo;
+        this.restricao = restricao;
+    }
 
     public int getId(){
             return id;
@@ -75,14 +76,14 @@ public class CartaSorte {
     @Override
     public String toString() {
         return "CartaSorte: {" +
-                "ID = " + id +
-                ", Descrição = '" + descricao + '\'' +
-                ", Movimento = " + movimento + " quadrados para direita" +
-                ", Efeito = +" + efeito +
-                ", Valor = R$" + valor +
-                ", Ação = '" + acao + '\'' +
-                ", Tempo = " + tempo + "horas" +
-                ", Restrição = '" + restricao + '\'' +
-                '}';
+                "\nID = " + id +
+                "\nDescrição = " + descricao +
+                "\nMovimento = " + movimento + " quadrados para direita" +
+                "\nEfeito = +" + efeito +
+                "\nValor = R$" + valor +
+                "\nAção = " + acao +
+                "\nTempo = " + tempo + " horas" +
+                "\nRestrição = " + restricao +
+                "}\n";
     }
 }

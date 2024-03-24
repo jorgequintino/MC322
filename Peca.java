@@ -2,9 +2,10 @@ public class Peca {
         private String colour;
         private int position;
 
-        public Peca(String colour, int position){
-        this.colour = colour;
-        this.position = position;
+    //        Construtor
+    public Peca(String colour, int position){
+    this.colour = colour;
+    this.position = position;
     }
     public String getColour(){
         return colour;
@@ -23,8 +24,8 @@ public class Peca {
     @Override
     public String toString() {
         return "Peça: {" +
-                "Cor = '" + colour + '\'' +
-                ", Posição = " + position + "ºquadrante" +
+                "\nCor = " + colour +
+                "\nPosição = " + position + "ºquadrante" +
                 '}';
     }
 }

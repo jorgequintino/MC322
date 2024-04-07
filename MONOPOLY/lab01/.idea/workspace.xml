@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2a847247-3a4b-49fa-b6db-d576ad1b2d45" name="Changes" comment="ajustments">
+      <change beforePath="$PROJECT_DIR$/../../lab01/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab01/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab01/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab01/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab01/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab01/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab01/lab01.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab01/src/CartaSorte.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab01/src/Jogador.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab01/src/Lab01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab01/src/Peca.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab02/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab02/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab02/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab02/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab02/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab02/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab02/Lab02.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab02/src/Lab02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab02/src/construcoes/Estacao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab02/src/construcoes/Propriedade.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab02/src/construcoes/ServicoPublico.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab02/src/construcoes/Terreno.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab02/src/estrutura/Tabuleiro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab02/src/modelo/CartaSorte.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab02/src/modelo/Jogador.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab02/src/modelo/Peca.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab02/src/util/Utilidades.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2emoyKAjznBMGpRHguKzlEdWH84" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Lab01.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/jorge/Documentos/Unicamp/03 - Programação Orientada a Objetos/MC322/MONOPOLY/lab02&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-22-openjdk-22-4caba194b151-6fbd92ee" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2a847247-3a4b-49fa-b6db-d576ad1b2d45" name="Changes" comment="ajustments" />
+      <created>1712519370112</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712519370112</updated>
+      <workItem from="1712519373399" duration="33000" />
+      <workItem from="1712519539322" duration="53000" />
+      <workItem from="1712519620538" duration="11000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ajustments" />
+    <option name="LAST_COMMIT_MESSAGE" value="ajustments" />
+  </component>
+</project>

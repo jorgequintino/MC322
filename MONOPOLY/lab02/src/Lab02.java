@@ -7,7 +7,6 @@ import modelo.CartaSorte;
 import modelo.Jogador;
 import modelo.Peca;
 import util.Utilidades;
-
 import java.util.ArrayList;
 import java.util.Scanner;
 

@@ -14,6 +14,7 @@ import java.util.Scanner;
 public class Lab02 {
     public static void main(String[] args) {
 
+
         // Criando cartas.
         CartaSorte[] cards = new CartaSorte[3];
         cards[0] = new CartaSorte(0, "Zefinha Night Out", 3, 100, 1500.26F,

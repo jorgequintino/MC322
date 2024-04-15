@@ -13,7 +13,6 @@ import java.util.Scanner;
 public class Lab02 {
     public static void main(String[] args) {
 
-
         // Criando cartas.
         CartaSorte[] cards = new CartaSorte[3];
         cards[0] = new CartaSorte(0, "Zefinha Night Out", 3, 100, 1500.26F,
@@ -103,8 +102,8 @@ public class Lab02 {
                     System.out.println(players[j]);
                 }
                 Tabuleiro board = new Tabuleiro(properties, playerids);
-                System.out.println(STR."These are players ID's: \{board.getPlayers()}");
-                System.out.println(STR."These are properties ID's:\{board.getProperties()}");
+                System.out.println(board);
+                //System.out.printlboardies()}");
                 System.out.println("Opps, you weren't suppose to see that just yet. There has been a breach in our system. We'll have to delay our game, i'm so sorry. Hope to find you there when we come back online...");
                 for (int l = 0; l < 20; l++) {
                     System.out.println(".");

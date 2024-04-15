@@ -15,5 +15,4 @@ public class Estacao extends Propriedade {
     public float calculaterent() {
         return super.calculaterent();
     }
-
 }

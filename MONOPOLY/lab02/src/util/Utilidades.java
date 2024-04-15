@@ -3,6 +3,7 @@ package util;
 import java.util.regex.Pattern;
 
 public class Utilidades {
+
     /**
      * Se a string tiver '@', a função retorna true indicando ser um email válido. Do contrário, retorna false.
      * @param email String

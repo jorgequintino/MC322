@@ -15,4 +15,5 @@ public class ServicoPublico extends Propriedade {
     public float calculaterent(int dados) {
         return super.calculaterent() * dados;
     }
+
 }

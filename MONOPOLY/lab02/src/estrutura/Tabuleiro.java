@@ -47,6 +47,6 @@ public class Tabuleiro {
     }
 
     public String toString() {
-        return STR."estrutura.Tabuleiro{players=\{players}, proprerties=\{properties}\{'}'}";
+        return STR."Tabuleiro: {\nPlayers index=\{players} \nProprerties index=\{properties}\{'}'}";
     }
 }

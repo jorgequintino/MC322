@@ -60,4 +60,5 @@ public class Terreno extends Propriedade{
     public String toString() {
         return String.format(super.toString() + STR."\nBONUS:" +STR."\nHouses Numbers = \{Housesnumber} \nHouses Values = \{Housevalue} \nHotel Numbers = \{Hotelnumber} \nHotel values = \{Hotelvalue}\{'}'}");
     }
+
 }

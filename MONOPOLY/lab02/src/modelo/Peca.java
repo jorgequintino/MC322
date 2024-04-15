@@ -1,8 +1,8 @@
 package modelo;
 
 public class Peca {
-        private String colour;
-        private int position;
+    private String colour;
+    private int position;
 
     //        Construtor
     public Peca(String colour, int position){

@@ -69,5 +69,4 @@ public class Propriedade{
     public float calculaterent(){
         return rent;
     }
-
 }

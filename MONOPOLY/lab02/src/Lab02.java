@@ -10,6 +10,8 @@ import util.Utilidades;
 import java.util.ArrayList;
 import java.util.Scanner;
 
+import static java.lang.StringTemplate.STR;
+
 public class Lab02 {
     public static void main(String[] args) {
 

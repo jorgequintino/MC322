@@ -4,20 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="540c5102-13f5-46ec-a600-f9a0e3ff4b4d" name="Changes" comment="lab03-251771">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MONOPOLY" beforeDir="false" afterPath="$PROJECT_DIR$/MONOPOLY" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lab04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab04.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/auxilio/Jogar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/auxilio/Jogar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/auxilio/Setar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/auxilio/Setar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/construcoes/Estacao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/construcoes/Estacao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/construcoes/ServicoPublico.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/construcoes/ServicoPublico.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/construcoes/Terreno.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/construcoes/Terreno.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/estrutura/Salvavel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/estrutura/Salvavel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/estrutura/Tabuleiro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/estrutura/Tabuleiro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/organizacao/Carta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/organizacao/Carta.java" afterDir="false" />
+    <list default="true" id="540c5102-13f5-46ec-a600-f9a0e3ff4b4d" name="Changes" comment="lab04-251771">
       <change beforePath="$PROJECT_DIR$/src/organizacao/CartaSorte.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/organizacao/CartaSorte.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/usuarios/Jogador.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/usuarios/Jogador.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,9 +92,25 @@
       <workItem from="1719773541132" duration="2011000" />
       <workItem from="1719834151452" duration="1746000" />
       <workItem from="1719836110114" duration="701000" />
-      <workItem from="1720103872590" duration="4984000" />
+      <workItem from="1720103872590" duration="6247000" />
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="lab03-251771">
+      <option name="closed" value="true" />
+      <created>1720118063390</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1720118063390</updated>
+    </task>
+    <task id="LOCAL-00003" summary="lab04-251771">
+      <option name="closed" value="true" />
+      <created>1720118142821</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1720118142821</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -114,6 +118,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="lab03-251771" />
-    <option name="LAST_COMMIT_MESSAGE" value="lab03-251771" />
+    <MESSAGE value="lab04-251771" />
+    <option name="LAST_COMMIT_MESSAGE" value="lab04-251771" />
   </component>
 </project>

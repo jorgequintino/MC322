@@ -26,48 +26,43 @@ Great to have y'all here! I need to know a bit more about you guys, is that ok?
 
 
 What's player 1 name going to be? You can be creative.
-ddc
+jorge
 
 
-Alright, now give me your CPF,ddc. I promise not share...or throw your name in the mud haha
+Alright, now give me your CPF,jorge. I promise not share...or throw your name in the mud haha
 03185023218
 
 
-Yeah, I need to know your email now. Please,ddc, don't leave me here alone.
-dx@cdf
+Yeah, I need to know your email now. Please,jorge, don't leave me here alone.
+j@hotmail.com
 
 
 I swear I'm not a creepy but I need to know how you look like. Blame the creepy who programmed me, ugh
-cv
+pretty
 
 
 PLease, pick your colour by giving me the number beside it.
-1
+2
 
 
 What's player 2 name going to be? You can be creative.
-cdc
+felipe
 
 
-Alright, now give me your CPF,cdc. I promise not share...or throw your name in the mud haha
-0318502318
-
-
-Unfortunately, your cpf is invalid. Please tell me another.
-The REAL one this time...
+Alright, now give me your CPF,felipe. I promise not share...or throw your name in the mud haha
 03185023218
 
 
-Yeah, I need to know your email now. Please,cdc, don't leave me here alone.
-cd@c
+Yeah, I need to know your email now. Please,felipe, don't leave me here alone.
+f@hotmail.com
 
 
 I swear I'm not a creepy but I need to know how you look like. Blame the creepy who programmed me, ugh
-fve
+nice
 
 
 PLease, pick your colour by giving me the number beside it.
-3
+5
 
 ******************************************************************
 
@@ -323,6 +318,7 @@ Value = R$1500.26
 Action = You just got rid off a stabbing. Congrats! Move three more places.
 Period = 1 rounds
 Restriction = It can only be used if you're at least one place after Zefinha Bar.
+Model = SORTE
 
 
 Carta Sorte:
@@ -336,6 +332,7 @@ Value = R$100.0
 Action = You've just been attacked by the crazy guy in the dark night. Pay this value to each player.
 Period = 1 rounds
 Restriction = It's only valid if you're on city square
+Model = REVÉS
 
 
 Carta Sorte:
@@ -349,6 +346,7 @@ Value = R$0.0
 Action = I'm sorry to hear the doctor told you to exercise. You gotta run now, which means you're not playing for a round
 Period = 1 rounds
 Restriction = Since you're exercising, none has to pay you rent this round.
+Model = REVÉS
 
 
 Carta Sorte:
@@ -362,6 +360,7 @@ Value = R$0.0
 Action = RUN AS FAST AS YOU CAN!
 Period = 1 rounds
 Restriction = No restriction.
+Model = REVÉS
 
 
 Carta Sorte:
@@ -375,6 +374,7 @@ Value = R$200.0
 Action = You gotta stay where you are for the next two rounds, also pay every player a fee of this value.
 Period = 2 rounds
 Restriction = Invalid if you're at 'Protected am to pm'
+Model = REVÉS
 
 
 Carta Sorte:
@@ -388,6 +388,7 @@ Value = R$100.0
 Action = Go back to the bus station and buy a new ticket [pay rent]
 Period = 1 rounds
 Restriction = If you're already there, you pay rent.
+Model = REVÉS
 
 
 Carta Sorte:
@@ -401,6 +402,7 @@ Value = R$500.0
 Action = You just received R$500,00.
 Period = 1 rounds
 Restriction = Not if you're at the Land behind Bus station, you crackhead!
+Model = SORTE
 
 
 Carta Sorte:
@@ -414,6 +416,7 @@ Value = R$250.0
 Action = You've been arrested for 3 rounds. You gotta beg for your life [pay the fee each round, dumbass].
 Period = 3 rounds
 Restriction = Invalid if you own 'Adonai Tv Station'
+Model = REVÉS
 
 
 Carta Sorte:
@@ -427,6 +430,7 @@ Value = R$0.0
 Action = Buy the next property available you land on.
 Period = 5 rounds
 Restriction = No restrictions
+Model = SORTE
 
 
 Carta Sorte:
@@ -440,6 +444,7 @@ Value = R$0.0
 Action = Sell every Public Service Property you own.
 Period = 1 rounds
 Restriction = If you own any, sell at least 2 Properties you own. In case of having just one, sell it and pay and leave town [Go back to the 'Free Parking'].
+Model = REVÉS
 
 ******************************************************************
 
@@ -448,27 +453,23 @@ Final state of players? HERE
 --------------------------------------------------------
 
 Jogador 1:
-Name = ddc
+Name = jorge
 Wallet = R$14400
 CPF = 03185023218
-Photo = cv
-Email = dx@cdf
+Photo = pretty
+Email = j@hotmail.com
 Cards = 
 
 
 
-Land:
+Public Service:
 
-ID = 19
-Description = Santa Claus House is always up and running, no matter if summer or winter.
-Owner = ddc
-Name = Santa Claus House
-Price = 150
-Rent = R$50.0
-Houses Numbers = 0 
-Houses Values = R$10 
-Hotel Numbers = 0 
-Hotel values = R$25
+ID = 14
+Description = Oh, you're sick? I'm so sorry, blame the Mayor. Anyway, there's a lot of people ahead of you. Gotta wait [or make it private].
+Owner = jorge
+Name = Intensive Public Health Care
+Price = 10000
+Rent = R$2250.0
 
 
 
@@ -476,7 +477,7 @@ Land:
 
 ID = 13
 Description = We've been waiting on you. It's to to buy some bad clothes labeled fashion
-Owner = ddc
+Owner = jorge
 Name = Department Store
 Price = 600
 Rent = R$1375.0
@@ -490,66 +491,57 @@ Carta Sorte:
 
 ID = 22
 Description = Walking Lane
-Owner = ddc
+Owner = jorge
 Moviment = 0 clockwise squares
 Effect = +100
 Value = R$0.0
 Action = I'm sorry to hear the doctor told you to exercise. You gotta run now, which means you're not playing for a round
 Period = 1 rounds
 Restriction = Since you're exercising, none has to pay you rent this round.
+Model = REVÉS
 
-Boardpiece = 	{Colour = White	Position = 13}
+Boardpiece = 	{Colour = Black	Position = 13}
 
 --------------------------------------------------------
 
 Jogador 2:
-Name = cdc
-Wallet = R$5000
+Name = felipe
+Wallet = R$15000
 CPF = 03185023218
-Photo = fve
-Email = cd@c
+Photo = nice
+Email = f@hotmail.com
 Cards = 
 
 
 
 Land:
 
-ID = 12
-Description = Watch out for the day light robbery!
-Owner = cdc
-Name = Grocery Store
-Price = 900
-Rent = R$700.0
+ID = 18
+Description = Welcome to the horrors house! WE ARE EVERYWHERE!
+Owner = felipe
+Name = Horrors House
+Price = 250
+Rent = R$200.0
 Houses Numbers = 0 
-Houses Values = R$550 
+Houses Values = R$25 
 Hotel Numbers = 0 
-Hotel values = R$800
-
-
-
-Public Service:
-
-ID = 14
-Description = Oh, you're sick? I'm so sorry, blame the Mayor. Anyway, there's a lot of people ahead of you. Gotta wait [or make it private].
-Owner = cdc
-Name = Intensive Public Health Care
-Price = 10000
-Rent = R$2250.0
+Hotel values = R$50
 
 
 Carta Sorte:
 
 ID = 23
 Description = Crazy guy in town
-Owner = cdc
+Owner = felipe
 Moviment = 5 clockwise squares
 Effect = +100
 Value = R$0.0
 Action = RUN AS FAST AS YOU CAN!
 Period = 1 rounds
 Restriction = No restriction.
+Model = REVÉS
 
-Boardpiece = 	{Colour = Blue	Position = 19}
+Boardpiece = 	{Colour = Yellow	Position = 19}
 
 --------------------------------------------------------
 

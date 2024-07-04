@@ -4,40 +4,55 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2a847247-3a4b-49fa-b6db-d576ad1b2d45" name="Changes" comment="ajustments" />
+    <list default="true" id="ef15c263-83f8-46cb-ba12-c5a238bae793" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../lab01/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab01/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 6
+  &quot;associatedIndex&quot;: 2
 }</component>
-  <component name="ProjectId" id="2emoyKAjznBMGpRHguKzlEdWH84" />
+  <component name="ProjectId" id="2fHd8OJ2KW6iHKB8pg1jPr3S761" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
-    &quot;Application.Lab01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab03.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/user/Documentos/Unicamp/03 - Programação Orientada a Objetos/MC322/MONOPOLY/lab01&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/user/Documentos/Unicamp/03 - Programação Orientada a Objetos/MC322/MONOPOLY/lab03/src&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;settings.sync&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -48,27 +63,25 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="2a847247-3a4b-49fa-b6db-d576ad1b2d45" name="Changes" comment="ajustments" />
-      <created>1712519370112</created>
+      <changelist id="ef15c263-83f8-46cb-ba12-c5a238bae793" name="Changes" comment="" />
+      <created>1713461778654</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1712519370112</updated>
-      <workItem from="1712519373399" duration="33000" />
-      <workItem from="1712519539322" duration="53000" />
-      <workItem from="1712519620538" duration="11000" />
-      <workItem from="1712779932312" duration="36000" />
-      <workItem from="1712779981381" duration="354000" />
-      <workItem from="1712857994974" duration="30000" />
-      <workItem from="1714785077269" duration="46000" />
-      <workItem from="1714846314250" duration="14000" />
+      <updated>1713461778654</updated>
+      <workItem from="1713461779783" duration="901000" />
+      <workItem from="1713465724882" duration="8000" />
+      <workItem from="1714235779907" duration="13974000" />
+      <workItem from="1714352816722" duration="3227000" />
+      <workItem from="1714658077304" duration="1468000" />
+      <workItem from="1714663347271" duration="290000" />
+      <workItem from="1714663658099" duration="12890000" />
+      <workItem from="1714692839461" duration="7579000" />
+      <workItem from="1714703662119" duration="2864000" />
+      <workItem from="1714766944149" duration="9123000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="ajustments" />
-    <option name="LAST_COMMIT_MESSAGE" value="ajustments" />
   </component>
 </project>

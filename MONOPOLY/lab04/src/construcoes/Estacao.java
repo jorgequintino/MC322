@@ -30,6 +30,6 @@ public class Estacao extends Propriedade {
 
     @Override
     public String toString() {
-        return STR."Station:\n\{super.toString(0)}";
+        return STR."\n\nStation:\n\{super.toString(0)}";
     }
 }

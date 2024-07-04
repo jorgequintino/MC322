@@ -54,6 +54,6 @@ public class Terreno extends Propriedade {
 
     @Override
     public String toString() {
-        return "Land:\n" + super.toString(0) + STR."\nHouses Numbers = \{Housesnumber} \nHouses Values = R$\{Housevalue} \nHotel Numbers = \{Hotelnumber} \nHotel values = R$\{Hotelvalue}";
+        return "\n\nLand:\n" + super.toString(0) + STR."\nHouses Numbers = \{Housesnumber} \nHouses Values = R$\{Housevalue} \nHotel Numbers = \{Hotelnumber} \nHotel values = R$\{Hotelvalue}";
     }
 }

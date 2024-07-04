@@ -1,5 +1,6 @@
 import auxilio.Setar;
 import construcoes.Terreno;
+import estrutura.Salvavel;
 import estrutura.Tabuleiro;
 import auxilio.Jogo;
 import organizacao.Carta;
@@ -18,22 +19,29 @@ public class Lab04 {
         if(game.gameon){
             ArrayList<Carta> stackOfCards = Setar.settingstackcards();
             //Game set.
-            System.out.println("This is Monopoly MC322's Version board:\n\n");
+            System.out.println("******************************************************************\n\nThis is Monopoly MC322's Version board and cards:");
             System.out.println(board);
-            System.out.println("And this is our stack of cards:");
+            Salvavel.savewritelog("******************************************************************\n\nThis is Monopoly MC322's Version board and cards:");
+            Salvavel.savewritelog(board.toString());
 
             for (Carta stackOfCard : stackOfCards) {
-                System.out.println("\n");
+                //System.out.println("\n");
                 System.out.println(stackOfCard);
+                Salvavel.savewritelog(stackOfCard.toString());
+
             }
+            Salvavel.savewritelog("******************************************************************\n\nFinal state of players? HERE\n\n--------------------------------------------------------");
+
             System.out.println("\n\nLet me just give y'all some properties.");
             board.givecards();
             System.out.println("\nAlright, do you wanna build a snowman?\nJust kidding, but for real, do you wanna check our players?\n");
+
             for(int i=0; i< (board.getPlayers()).size();i++){
+                System.out.println("*************************************************\n");
                 if(i!=0){
-                    System.out.println("Next one, please...\n");
+                    System.out.println("######\nNext one, please...\n#####\n");
                 }
-                System.out.println((board.getPlayers()).get(i));
+                System.out.println(STR."Initial state of \{(board.getPlayers()).get(i)}");
                 //Buy a property.
                 ((board.getPlayers()).get(i).getBoardpiece()).setPosition((i+13)%20);
                 System.out.println(STR."Look at that, you just rolled the dices and landed on the property: \{((board.getProperties()).get((i+13)%20)).getName()}.\nLet's try to buy it!");
@@ -66,11 +74,13 @@ public class Lab04 {
                     ((board.getPlayers()).get(i).getBoardpiece()).setPosition(((i+13)%20)+extra);
                 }
 
-                System.out.println((board.getPlayers()).get(i));
+                System.out.println(STR."Final state of \{(board.getPlayers()).get(i)}");
+                Salvavel.savewritelog(STR."\{((board.getPlayers()).get(i)).toString()}\n--------------------------------------------------------");
             }
             System.out.println("\nI guess that's it for now.\nLet me just...");
             game.offline("HUMANS");
         }
+        Salvavel.savewritelog("oh, no. I'm to be dismantled. I guess this is goodbye!");
         board.salvalog();
     }
 }

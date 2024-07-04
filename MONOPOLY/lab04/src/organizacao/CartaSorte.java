@@ -68,6 +68,6 @@ public class CartaSorte extends Carta{
 
     @Override
     public String toString() {
-        return "Carta Sorte:\n" + super.toString() + STR."\nMoviment = \{moviment} clockwise squares\nEffect = +\{effect}\nValue = R$\{value}\nAction = \{action}\nPeriod = \{period} rounds\nRestriction = \{restriction}";
+        return "\nCarta Sorte:\n" + super.toString() + STR."\nMoviment = \{moviment} clockwise squares\nEffect = +\{effect}\nValue = R$\{value}\nAction = \{action}\nPeriod = \{period} rounds\nRestriction = \{restriction}";
     }
 }

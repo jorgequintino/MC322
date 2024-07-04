@@ -5,7 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="540c5102-13f5-46ec-a600-f9a0e3ff4b4d" name="Changes" comment="lab03-251771">
-      <change beforePath="$PROJECT_DIR$/../lab01/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab01/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MONOPOLY" beforeDir="false" afterPath="$PROJECT_DIR$/MONOPOLY" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lab04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/auxilio/Jogar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/auxilio/Jogar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/auxilio/Setar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/auxilio/Setar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/construcoes/Estacao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/construcoes/Estacao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/construcoes/ServicoPublico.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/construcoes/ServicoPublico.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/construcoes/Terreno.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/construcoes/Terreno.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/estrutura/Salvavel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/estrutura/Salvavel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/estrutura/Tabuleiro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/estrutura/Tabuleiro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/organizacao/Carta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/organizacao/Carta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/organizacao/CartaSorte.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/organizacao/CartaSorte.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/usuarios/Jogador.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/usuarios/Jogador.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,23 +57,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Lab03.executor": "Run",
-    "Application.Lab04.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/user/Documentos/Unicamp/03 - Programação Orientada a Objetos/MC322/MONOPOLY/lab04",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Lab03.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab04.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/user/Documentos/Unicamp/03 - Programação Orientada a Objetos/MC322/MONOPOLY/lab04&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -92,6 +104,7 @@
       <workItem from="1719773541132" duration="2011000" />
       <workItem from="1719834151452" duration="1746000" />
       <workItem from="1719836110114" duration="701000" />
+      <workItem from="1720103872590" duration="4984000" />
     </task>
     <option name="localTasksCounter" value="2" />
     <servers />

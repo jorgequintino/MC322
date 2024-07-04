@@ -1,5 +1,15 @@
 This is a report on user actions and choices of answers. Be careful with it!
 
+******************** USER INPUT ********************
+
+Oh, HI!
+Welcome to Monoply MC322's version!
+This Especial Edition of such a classic game will honour its programmer hometown,which means YOU player(s) have lots of surprises ahead.
+My name is Mono and no, I'm not a ghost. I'm a set of commands made to give you the best possible game.
+First, let me load the board. It's been a while since anyone played with me!
+LOADING ...
+
+
 
 OK, I'm all loaded now.
 It's time to play, pal! or girl, or non-binary. Whatever you identify with it's ok by me,I'm not even alive therefore can't judge you.
@@ -16,41 +26,532 @@ Great to have y'all here! I need to know a bit more about you guys, is that ok?
 
 
 What's player 1 name going to be? You can be creative.
-1sd
+ddc
 
 
-Alright, now give me your CPF,1sd. I promise not share...or throw your name in the mud haha
+Alright, now give me your CPF,ddc. I promise not share...or throw your name in the mud haha
 03185023218
 
 
-Yeah, I need to know your email now. Please,1sd, don't leave me here alone.
-cfd@fvdfd
+Yeah, I need to know your email now. Please,ddc, don't leave me here alone.
+dx@cdf
 
 
 I swear I'm not a creepy but I need to know how you look like. Blame the creepy who programmed me, ugh
-fv
+cv
+
+
+PLease, pick your colour by giving me the number beside it.
+1
+
+
+What's player 2 name going to be? You can be creative.
+cdc
+
+
+Alright, now give me your CPF,cdc. I promise not share...or throw your name in the mud haha
+0318502318
+
+
+Unfortunately, your cpf is invalid. Please tell me another.
+The REAL one this time...
+03185023218
+
+
+Yeah, I need to know your email now. Please,cdc, don't leave me here alone.
+cd@c
+
+
+I swear I'm not a creepy but I need to know how you look like. Blame the creepy who programmed me, ugh
+fve
 
 
 PLease, pick your colour by giving me the number beside it.
 3
 
+******************************************************************
 
-What's player 2 name going to be? You can be creative.
-vfd
-
-
-Alright, now give me your CPF,vfd. I promise not share...or throw your name in the mud haha
-03185023218
+This is Monopoly MC322's Version board and cards:
 
 
-Yeah, I need to know your email now. Please,vfd, don't leave me here alone.
-cfd@defv
+
+Station:
+
+ID = 0
+Description = This is a free zone. None is gonna bother you here.
+Owner = No owner
+Name = Parking Station
+Price = -1
+Rent = R$0.0
+
+Land:
+
+ID = 1
+Description = This a nature loving zone which means it comes with a cost to be eco friendly.
+Owner = No owner
+Name = Environmental Park
+Price = 300
+Rent = R$100.0
+Houses Numbers = 0 
+Houses Values = R$20 
+Hotel Numbers = 0 
+Hotel values = R$40
+
+Public Service:
+
+ID = 2
+Description = Oh, you're where the mayor makes his public events. Better help your city, don't you think?
+Owner = No owner
+Name = Public Events Square
+Price = 200
+Rent = R$450.0
+
+Land:
+
+ID = 3
+Description = Zefinha
+Owner = No owner
+Name = Zefinha
+Price = 350
+Rent = R$200.0
+Houses Numbers = 0 
+Houses Values = R$50 
+Hotel Numbers = 0 
+Hotel values = R$80
+
+Land:
+
+ID = 4
+Description = Welcome to where all the fun in town is. We can skate, run a marathon or just on grass.
+Owner = No owner
+Name = Playground
+Price = 400
+Rent = R$100.0
+Houses Numbers = 0 
+Houses Values = R$30 
+Hotel Numbers = 0 
+Hotel values = R$50
+
+Station:
+
+ID = 5
+Description = The bus station is where all the fun, for the crackheads or ambitious people at least. Buckle up because the price of fun is high!
+Owner = No owner
+Name = Bus Station
+Price = -1
+Rent = R$2500.0
+
+Land:
+
+ID = 6
+Description = Did you really think it was gonna be this easy to leave town? Your ticket just got high, just like these crackheads.
+Owner = No owner
+Name = Land Outside Bus Station
+Price = 200
+Rent = R$600.0
+Houses Numbers = 0 
+Houses Values = R$200 
+Hotel Numbers = 0 
+Hotel values = R$350
+
+Land:
+
+ID = 7
+Description = The one private company keeping the town. Keep in mind we're talking about the WHOLE TOWN!
+Owner = No owner
+Name = Protected am to pm
+Price = 550
+Rent = R$350.0
+Houses Numbers = 0 
+Houses Values = R$75 
+Hotel Numbers = 0 
+Hotel values = R$200
+
+Land:
+
+ID = 8
+Description = Welcome to the jungle! No, this is not just a Guns N' roses song.
+Owner = No owner
+Name = Abandoned Land near the Swimming Club
+Price = 100
+Rent = R$50.0
+Houses Numbers = 0 
+Houses Values = R$250 
+Hotel Numbers = 0 
+Hotel values = R$400
+
+Land:
+
+ID = 9
+Description = What are a fresh dip into water? Pay attention to fungus, tho.
+Owner = No owner
+Name = Swimming Club
+Price = 375
+Rent = R$200.0
+Houses Numbers = 0 
+Houses Values = R$50 
+Hotel Numbers = 0 
+Hotel values = R$70
+
+Station:
+
+ID = 10
+Description = Watch you criminals [Rivals to the wealthiest family in town]!
+Owner = No owner
+Name = Police Station
+Price = -1
+Rent = R$1750.0
+
+Land:
+
+ID = 11
+Description = I bet it's nothing much. Here, spend R$ 1000 with us!
+Owner = No owner
+Name = Drug Store
+Price = 400
+Rent = R$300.0
+Houses Numbers = 0 
+Houses Values = R$90 
+Hotel Numbers = 0 
+Hotel values = R$115
+
+Land:
+
+ID = 12
+Description = Watch out for the day light robbery!
+Owner = No owner
+Name = Grocery Store
+Price = 900
+Rent = R$700.0
+Houses Numbers = 0 
+Houses Values = R$550 
+Hotel Numbers = 0 
+Hotel values = R$800
+
+Land:
+
+ID = 13
+Description = We've been waiting on you. It's to to buy some bad clothes labeled fashion
+Owner = No owner
+Name = Department Store
+Price = 600
+Rent = R$500.0
+Houses Numbers = 0 
+Houses Values = R$400 
+Hotel Numbers = 0 
+Hotel values = R$475
+
+Public Service:
+
+ID = 14
+Description = Oh, you're sick? I'm so sorry, blame the Mayor. Anyway, there's a lot of people ahead of you. Gotta wait [or make it private].
+Owner = No owner
+Name = Intensive Public Health Care
+Price = 10000
+Rent = R$2250.0
+
+Station:
+
+ID = 15
+Description = News Adonai TV Station where all your politics are built. You can't scape us!
+Owner = No owner
+Name = Adonai TV Station
+Price = 800
+Rent = R$9000.0
+
+Land:
+
+ID = 16
+Description = This is where the first house of the town was built. Better pay your respects. We'll take it in money, please.
+Owner = No owner
+Name = Land of the first house in town
+Price = 300
+Rent = R$100.0
+Houses Numbers = 0 
+Houses Values = R$25 
+Hotel Numbers = 0 
+Hotel values = R$50
+
+Land:
+
+ID = 17
+Description = Oh, you've reached the main hotel in town. Keep on the line and we'll talk to you in a minute [or not]
+Owner = No owner
+Name = Main Hotel
+Price = 350
+Rent = R$250.0
+Houses Numbers = 0 
+Houses Values = R$50 
+Hotel Numbers = 0 
+Hotel values = R$200
+
+Land:
+
+ID = 18
+Description = Welcome to the horrors house! WE ARE EVERYWHERE!
+Owner = No owner
+Name = Horrors House
+Price = 250
+Rent = R$200.0
+Houses Numbers = 0 
+Houses Values = R$25 
+Hotel Numbers = 0 
+Hotel values = R$50
+
+Land:
+
+ID = 19
+Description = Santa Claus House is always up and running, no matter if summer or winter.
+Owner = No owner
+Name = Santa Claus House
+Price = 150
+Rent = R$50.0
+Houses Numbers = 0 
+Houses Values = R$10 
+Hotel Numbers = 0 
+Hotel values = R$25
 
 
-I swear I'm not a creepy but I need to know how you look like. Blame the creepy who programmed me, ugh
-df
+Carta Sorte:
+
+ID = 20
+Description = Zefinha Night Out
+Owner = No owner
+Moviment = 3 clockwise squares
+Effect = +100
+Value = R$1500.26
+Action = You just got rid off a stabbing. Congrats! Move three more places.
+Period = 1 rounds
+Restriction = It can only be used if you're at least one place after Zefinha Bar.
 
 
-PLease, pick your colour by giving me the number beside it.
-4
+Carta Sorte:
+
+ID = 21
+Description = City Square Night Figure
+Owner = No owner
+Moviment = 1 clockwise squares
+Effect = +100
+Value = R$100.0
+Action = You've just been attacked by the crazy guy in the dark night. Pay this value to each player.
+Period = 1 rounds
+Restriction = It's only valid if you're on city square
+
+
+Carta Sorte:
+
+ID = 22
+Description = Walking Lane
+Owner = No owner
+Moviment = 0 clockwise squares
+Effect = +100
+Value = R$0.0
+Action = I'm sorry to hear the doctor told you to exercise. You gotta run now, which means you're not playing for a round
+Period = 1 rounds
+Restriction = Since you're exercising, none has to pay you rent this round.
+
+
+Carta Sorte:
+
+ID = 23
+Description = Crazy guy in town
+Owner = No owner
+Moviment = 5 clockwise squares
+Effect = +100
+Value = R$0.0
+Action = RUN AS FAST AS YOU CAN!
+Period = 1 rounds
+Restriction = No restriction.
+
+
+Carta Sorte:
+
+ID = 24
+Description = It's shooting!
+Owner = No owner
+Moviment = 0 clockwise squares
+Effect = +100
+Value = R$200.0
+Action = You gotta stay where you are for the next two rounds, also pay every player a fee of this value.
+Period = 2 rounds
+Restriction = Invalid if you're at 'Protected am to pm'
+
+
+Carta Sorte:
+
+ID = 25
+Description = Traffic ahead. Take the bus please.
+Owner = No owner
+Moviment = 0 clockwise squares
+Effect = +100
+Value = R$100.0
+Action = Go back to the bus station and buy a new ticket [pay rent]
+Period = 1 rounds
+Restriction = If you're already there, you pay rent.
+
+
+Carta Sorte:
+
+ID = 26
+Description = There's been a robbery in town. Guess what? It was Robin Hood!
+Owner = No owner
+Moviment = 0 clockwise squares
+Effect = +100
+Value = R$500.0
+Action = You just received R$500,00.
+Period = 1 rounds
+Restriction = Not if you're at the Land behind Bus station, you crackhead!
+
+
+Carta Sorte:
+
+ID = 27
+Description = Adonai Tv Station has just made a broadcast a conspiracy against the mayor.
+Owner = No owner
+Moviment = 0 clockwise squares
+Effect = +100
+Value = R$250.0
+Action = You've been arrested for 3 rounds. You gotta beg for your life [pay the fee each round, dumbass].
+Period = 3 rounds
+Restriction = Invalid if you own 'Adonai Tv Station'
+
+
+Carta Sorte:
+
+ID = 28
+Description = You just won the lottery!
+Owner = No owner
+Moviment = 0 clockwise squares
+Effect = +100
+Value = R$0.0
+Action = Buy the next property available you land on.
+Period = 5 rounds
+Restriction = No restrictions
+
+
+Carta Sorte:
+
+ID = 29
+Description = The mayor is dead!
+Owner = No owner
+Moviment = 0 clockwise squares
+Effect = +100
+Value = R$0.0
+Action = Sell every Public Service Property you own.
+Period = 1 rounds
+Restriction = If you own any, sell at least 2 Properties you own. In case of having just one, sell it and pay and leave town [Go back to the 'Free Parking'].
+
+******************************************************************
+
+Final state of players? HERE
+
+--------------------------------------------------------
+
+Jogador 1:
+Name = ddc
+Wallet = R$14400
+CPF = 03185023218
+Photo = cv
+Email = dx@cdf
+Cards = 
+
+
+
+Land:
+
+ID = 19
+Description = Santa Claus House is always up and running, no matter if summer or winter.
+Owner = ddc
+Name = Santa Claus House
+Price = 150
+Rent = R$50.0
+Houses Numbers = 0 
+Houses Values = R$10 
+Hotel Numbers = 0 
+Hotel values = R$25
+
+
+
+Land:
+
+ID = 13
+Description = We've been waiting on you. It's to to buy some bad clothes labeled fashion
+Owner = ddc
+Name = Department Store
+Price = 600
+Rent = R$1375.0
+Houses Numbers = 1 
+Houses Values = R$400 
+Hotel Numbers = 1 
+Hotel values = R$475
+
+
+Carta Sorte:
+
+ID = 22
+Description = Walking Lane
+Owner = ddc
+Moviment = 0 clockwise squares
+Effect = +100
+Value = R$0.0
+Action = I'm sorry to hear the doctor told you to exercise. You gotta run now, which means you're not playing for a round
+Period = 1 rounds
+Restriction = Since you're exercising, none has to pay you rent this round.
+
+Boardpiece = 	{Colour = White	Position = 13}
+
+--------------------------------------------------------
+
+Jogador 2:
+Name = cdc
+Wallet = R$5000
+CPF = 03185023218
+Photo = fve
+Email = cd@c
+Cards = 
+
+
+
+Land:
+
+ID = 12
+Description = Watch out for the day light robbery!
+Owner = cdc
+Name = Grocery Store
+Price = 900
+Rent = R$700.0
+Houses Numbers = 0 
+Houses Values = R$550 
+Hotel Numbers = 0 
+Hotel values = R$800
+
+
+
+Public Service:
+
+ID = 14
+Description = Oh, you're sick? I'm so sorry, blame the Mayor. Anyway, there's a lot of people ahead of you. Gotta wait [or make it private].
+Owner = cdc
+Name = Intensive Public Health Care
+Price = 10000
+Rent = R$2250.0
+
+
+Carta Sorte:
+
+ID = 23
+Description = Crazy guy in town
+Owner = cdc
+Moviment = 5 clockwise squares
+Effect = +100
+Value = R$0.0
+Action = RUN AS FAST AS YOU CAN!
+Period = 1 rounds
+Restriction = No restriction.
+
+Boardpiece = 	{Colour = Blue	Position = 19}
+
+--------------------------------------------------------
+
+oh, no. I'm to be dismantled. I guess this is goodbye!
 

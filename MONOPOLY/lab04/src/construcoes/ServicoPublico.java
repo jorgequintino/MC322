@@ -30,6 +30,6 @@ public class ServicoPublico extends Propriedade {
 
     @Override
     public String toString() {
-        return STR."Public Service:\n\{super.toString(this.calculaterent())}";
+        return STR."\n\nPublic Service:\n\{super.toString(this.calculaterent())}";
     }
 }

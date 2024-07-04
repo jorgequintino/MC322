@@ -36,6 +36,6 @@ public class Carta{
 
     @Override
     public String toString() {
-        return STR."ID = \{id}\nDescription = \{description}\nOwner = \{(owner == null) ? "No owner" : owner.getName()}";
+        return STR."\nID = \{id}\nDescription = \{description}\nOwner = \{(owner == null) ? "No owner" : owner.getName()}";
     }
 }

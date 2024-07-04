@@ -105,10 +105,11 @@ public class Tabuleiro implements Setar, Salvavel{
 
     @Override
     public String toString() {
+    StringBuilder out = new StringBuilder();
         for(int i=0;i<this.getProperties().size();i++){
-            System.out.println(this.getProperties().get(i));
-            System.out.println("\n");
+            out.append((this.properties.get(i)).toString());
+            //out.append("\n\n");
         }
-        return "Board updated.";
+        return out.toString();
     }
 }

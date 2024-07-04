@@ -170,6 +170,6 @@ public class Jogador {
             card.append(carta.toString());
             card.append("\n");
         }
-        return STR."Jogador \{id}:\nName = \{name}\nWallet = R$\{money}\nCPF = \{cpf}\nPhoto = \{foto}\nEmail = \{email}\nCards = \{(cards.isEmpty()) ? "{}" : card}\n" + STR."Boardpiece = \t{\{boardpiece.toString()}}\n";
+        return STR."Jogador \{id+1}:\nName = \{name}\nWallet = R$\{money}\nCPF = \{cpf}\nPhoto = \{foto}\nEmail = \{email}\nCards = \{(cards.isEmpty()) ? "{}" : card}\n" + STR."Boardpiece = \t{\{boardpiece.toString()}}\n";
     }
 }

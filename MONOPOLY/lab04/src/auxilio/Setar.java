@@ -87,7 +87,8 @@ public interface Setar extends Jogar{
                     Salvavel.savewritelog("""
                     \nGreat to have y'all here! I need to know a bit more about you guys, is that ok?
                     1 - YES
-                    0 - NO\n"""+Integer.toString(ok));
+                    0 - NO
+                    """+Integer.toString(ok));
                     if(ok < 0 || ok > 1){
                         throw new Exception();
                     }

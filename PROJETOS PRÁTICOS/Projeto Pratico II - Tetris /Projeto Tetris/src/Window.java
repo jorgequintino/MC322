@@ -16,7 +16,7 @@ import java.util.List;
  * Defines the window for the game and all the subsequent containers, including
  * the game board layer and the info panel
  */
-public class Window {
+public class Window implements Reportingtxt {
     protected JFrame Game_Window ;
     protected JPanel Game_Board;
     protected JPanelWithBackground Info_Panel;
@@ -109,13 +109,18 @@ public class Window {
      * Updates the cells on the Game Board.
      * @param B: Board
      */
-    public void update_Widow(Board B) {
+    public void update_Widow(Board B) throws IOException {
         for (int i = 0; i < B.getHeight(); i++) {
             for (int j = 0; j < B.getWidth(); j++) {
                 Blocks.get(i*B.getWidth() + j).UpdateBlock(B.getForm()[i][j]);
             }
         }
         Score.updateScore(B);
+        Reportingtxt.gamelog(B.getLanded());
+        Reportingtxt.gamescorelog(B.getScore());
+        Reportingtxt.reportlog();
+
+        //Salvavel.gamescorelog(B.getScore());
         Game_Board.revalidate();
         Game_Board.repaint();
     }

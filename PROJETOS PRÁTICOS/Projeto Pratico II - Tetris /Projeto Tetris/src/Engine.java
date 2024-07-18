@@ -2,6 +2,7 @@ import Matrix.Board.*;
 import Matrix.Color;
 import Matrix.Pieces.*;
 
+import java.io.IOException;
 import java.util.concurrent.ThreadLocalRandom;
 
 /**
@@ -226,7 +227,7 @@ public class Engine {
      * Runs the game with the specified conditions
      * @param B: Board to run the game
      */
-    public static void run(Board B, Window W) {
+    public static void run(Board B, Window W) throws IOException {
         //Tick counter
         double t = 0;
         //Delta Time, defines the Frame Rate: dt = 1000 ms / FPS

@@ -2,7 +2,6 @@ import Matrix.Board.Board;
 import Matrix.Pieces.Ipiece;
 import Matrix.Pieces.Jpiece;
 import Matrix.Pieces.Piece;
-
 import java.awt.*;
 import java.io.IOException;
 

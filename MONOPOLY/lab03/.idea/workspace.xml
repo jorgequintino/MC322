@@ -4,55 +4,35 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ef15c263-83f8-46cb-ba12-c5a238bae793" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../lab01/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab01/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="3433f8fc-d31e-4f1b-85f7-6e24744e883c" name="Changes" comment="Added instruction pdf for each activity">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-        <option value="Interface" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 2
+  &quot;associatedIndex&quot;: 7
 }</component>
-  <component name="ProjectId" id="2fHd8OJ2KW6iHKB8pg1jPr3S761" />
+  <component name="ProjectId" id="2lCzgiR74v1fK9YWMgB7fTqAwtK" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
-    &quot;Application.Lab03.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/user/Documentos/Unicamp/03 - Programação Orientada a Objetos/MC322/MONOPOLY/lab03/src&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;settings.sync&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src" />
-    </key>
-  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -63,25 +43,24 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="ef15c263-83f8-46cb-ba12-c5a238bae793" name="Changes" comment="" />
-      <created>1713461778654</created>
+      <changelist id="3433f8fc-d31e-4f1b-85f7-6e24744e883c" name="Changes" comment="Added instruction pdf for each activity" />
+      <created>1724698963548</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1713461778654</updated>
-      <workItem from="1713461779783" duration="901000" />
-      <workItem from="1713465724882" duration="8000" />
-      <workItem from="1714235779907" duration="13974000" />
-      <workItem from="1714352816722" duration="3227000" />
-      <workItem from="1714658077304" duration="1468000" />
-      <workItem from="1714663347271" duration="290000" />
-      <workItem from="1714663658099" duration="12890000" />
-      <workItem from="1714692839461" duration="7579000" />
-      <workItem from="1714703662119" duration="2864000" />
-      <workItem from="1714766944149" duration="9123000" />
+      <updated>1724698963548</updated>
+      <workItem from="1724698966176" duration="18000" />
+      <workItem from="1724725776676" duration="8000" />
+      <workItem from="1724773755184" duration="4000" />
+      <workItem from="1725749582970" duration="8000" />
+      <workItem from="1727273428392" duration="7000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added instruction pdf for each activity" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added instruction pdf for each activity" />
   </component>
 </project>
